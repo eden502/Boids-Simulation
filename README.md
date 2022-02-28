@@ -42,10 +42,15 @@ Additional options are:
  Running the simulation:
  There are two ways to run the simulation.
  1) If you don't have Processing IDE installed:
+
     1.1) Download 'Boids Application.zip'
+  
     1.2) Extract 'application.windows'
+    
     1.3) Run 'Boids.exe'
+    
     1.4) Enjoy :)  (Readme file in the zip also explains how to run)
+   
  2) If you have Processing IDE installed:
     2.1) Donwnload Boids.java
     2.2) Import it to a new Processing project

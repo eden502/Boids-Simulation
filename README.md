@@ -70,4 +70,4 @@ The program was written in Processing ver 4.0b2
   
 Imporant notes:
 1. This is just my implementation for the idea, there are many impressive implementations out there.
-2. It was not written with efficiency in mind - currenly each boid is checking the values of all the other boids in each freme.
+2. It was not written with efficiency in mind - currenly each boid is checking the values of all the other boids in each frame.

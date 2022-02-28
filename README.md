@@ -52,9 +52,13 @@ Additional options are:
     1.4) Enjoy :)  (Readme file in the zip also explains how to run)
    
  2) If you have Processing IDE installed:
+ 
     2.1) Donwnload Boids.java
+    
     2.2) Import it to a new Processing project
-    3.3) Run :)
+    
+    2.3) Run :)
+    
     
     
     
